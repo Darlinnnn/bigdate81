@@ -5,4 +5,4 @@ read b
 c=`expr $a + $b`
 echo $c
 
-echo "hello"
+echo "hello world"
